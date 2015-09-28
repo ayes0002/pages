@@ -1,2 +1,2 @@
 # pages
-testing gif-pages
+testing gh-pages
